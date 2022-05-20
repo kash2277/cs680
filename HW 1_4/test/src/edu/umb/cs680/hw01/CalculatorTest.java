@@ -11,6 +11,7 @@ public class CalculatorTest {
 		float actual = cut.multiply(3,4);
 		assertTrue(cut instanceof Calculator);
 		assertEquals(expected, actual);
+		
 	}
 	@Test
 	public void divide3By2(){
