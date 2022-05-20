@@ -27,6 +27,7 @@ public class LinkTest {
 	private static Link v;
 	
 
+	
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
 		root = new Directory(null, "root", 0, LocalDateTime.now());
