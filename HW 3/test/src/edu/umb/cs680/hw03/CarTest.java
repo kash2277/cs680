@@ -14,6 +14,7 @@ class CarTest {
 		return carStringArray;
 	}
 	
+	
 	@Test
 	public void verifyCarEqualityWithMakeModelYear() {
 		String[] expected = {"Dodge", "Challenger", "2020"};
