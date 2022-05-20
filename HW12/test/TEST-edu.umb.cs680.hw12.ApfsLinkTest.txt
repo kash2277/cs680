@@ -1,0 +1,9 @@
+Testcase: edu.umb.cs680.hw12.ApfsLinkTest
+Test: isLinkTestingWithM() took 1 milli sec(s)
+Test: getTargetTestingWithM() took 0 milli sec(s)
+Test: isDirectoyTestingWithM() took 0 milli sec(s)
+Test: isFileTestingWithM() took 1 milli sec(s)
+Test: verifyLinkEqualityM() took 0 milli sec(s)
+Test: verifyLinkEqualityN() took 1 milli sec(s)
+Test: setTargetTestingWithM() took 0 milli sec(s)
+Tests run: 7, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 5 milli sec(s)

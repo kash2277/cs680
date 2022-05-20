@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw09.ApfsFileTest
+Test: verifyingEqualityForFileA() took 0 milli sec(s)
+Test: TestingLinkWithFileB() took 0 milli sec(s)
+Test: verifyingEqualityForFileInX() took 0 milli sec(s)
+Test: TestingFileWithFileB() took 1 milli sec(s)
+Test: DirectoyTestingWitFilehB() took 0 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 2 milli sec(s)

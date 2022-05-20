@@ -1,0 +1,13 @@
+Testcase: edu.umb.cs680.hw09.ApfsDirectoryTest
+Test: SubDirectoriesTestingGetWithHome() took 0 milli sec(s)
+Test: SubDirectoriesTestingGetWithRoot() took 3 milli sec(s)
+Test: SizeTestingGetWithHome() took 1 milli sec(s)
+Test: FileTestingWithRoot() took 1 milli sec(s)
+Test: DirectoyTestingWithRoot() took 1 milli sec(s)
+Test: FilesTestingGetWithHome() took 1 milli sec(s)
+Test: FilesTestingGetWithPictures() took 0 milli sec(s)
+Test: LinksTestingGetWithHome() took 0 milli sec(s)
+Test: verifyingDirectoryEqualityAtRoot() took 0 milli sec(s)
+Test: ChildrenTestingWithHome() took 0 milli sec(s)
+Test: appendChildrenTestingWithRoot() took 0 milli sec(s)
+Tests run: 11, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 11 milli sec(s)
