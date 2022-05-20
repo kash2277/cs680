@@ -1,7 +1,0 @@
-Testcase: edu.umb.cs680.hw14.ApfsFileTest
-Test: DirectoyTestingForB() took 1 milli sec(s)
-Test: BothLinkTestingForB() took 0 milli sec(s)
-Test: verifyingFileEqualityForA() took 1 milli sec(s)
-Test: verifyingFileEqualityForX() took 0 milli sec(s)
-Test: FileTestingForB() took 1 milli sec(s)
-Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 4 milli sec(s)
