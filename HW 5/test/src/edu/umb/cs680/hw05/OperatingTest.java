@@ -6,6 +6,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+
 import edu.umb.cs680.hw05.Escalator;
 import edu.umb.cs680.hw05.Operating;
 import edu.umb.cs680.hw05.StandBy;
