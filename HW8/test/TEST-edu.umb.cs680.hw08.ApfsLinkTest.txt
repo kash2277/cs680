@@ -1,9 +1,0 @@
-Testcase: edu.umb.cs680.hw08.ApfsLinkTest
-Test: isLinkTestingWithU() took 0 milli sec(s)
-Test: getTargetTestingWithU() took 1 milli sec(s)
-Test: isDirectoyTestingWithU() took 0 milli sec(s)
-Test: isFileTestingWithU() took 1 milli sec(s)
-Test: verifyLinkEqualityU() took 0 milli sec(s)
-Test: verifyLinkEqualityV() took 1 milli sec(s)
-Test: setTargetTestingWithU() took 0 milli sec(s)
-Tests run: 7, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 4 milli sec(s)
