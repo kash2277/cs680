@@ -1,8 +1,0 @@
-Testcase: edu.umb.cs680.hw09.ApfsCountingVisitorTest
-Test: verifyingLinkNumberByHome() took 1 milli sec(s)
-Test: verifyingLinkNumberByRoot() took 1 milli sec(s)
-Test: verifyingDirectoryNumberByHome() took 1 milli sec(s)
-Test: verifyingDirectoryNumberByRoot() took 0 milli sec(s)
-Test: verifyingFileNumberByHome() took 0 milli sec(s)
-Test: verifyingFileNumberByRoot() took 1 milli sec(s)
-Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 8 milli sec(s)
